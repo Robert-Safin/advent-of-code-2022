@@ -1,9 +1,7 @@
 package main
 
-import (
-	"advent-of-code-2022/d11"
-)
+import "advent-of-code-2022/d12"
 
 func main() {
-	d11.Solve2()
+	d12.Solve2()
 }
